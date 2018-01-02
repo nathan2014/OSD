@@ -4,13 +4,13 @@ backend:
   # Path to your Github repository
   branch: master # Branch to update (master by default)
 
-  display_url: organicseodesign.co
-  publish_mode: editorial_workflow
+display_url: organicseodesign.co
+publish_mode: editorial_workflow
 
-  media_folder: "public/static/images" # Folder where user uploaded files should go
-  # public_folder: "public"
+media_folder: "public/static/images" # Folder where user uploaded files should go
+# public_folder: "public"
 
-  collections: # A list of collections the CMS should be able to edit
+collections: # A list of collections the CMS should be able to edit
   - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Blog" # Used in the UI, ie.: "New Post"
     folder: "public/content/post" # The path to the folder where the documents are stored
