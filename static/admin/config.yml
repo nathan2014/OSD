@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: nickeblewis/headforcode # Path to your Github repository
+  repo: nathan2014/osd # Path to your Github repository
   branch: master # Branch to update (master by default)
 
 public_folder: "public"
