@@ -1,0 +1,17 @@
+name = ""
+license = ""
+licenselink = ""
+description = ""
+homepage = ""
+tags = ["blog"]
+features = ["disqus", "google analytics","share"]
+min_version=0.14
+
+[author]
+  name = "Valere JEANTET"
+  homepage = ""
+
+[original]
+  name = ""
+  homepage = ""
+  repo = ""
