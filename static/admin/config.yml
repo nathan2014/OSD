@@ -1,20 +1,21 @@
 backend:
   name: github
-  repo: https://github.com/nathan2014/osd.git
-  # Path to your Github repository
+  repo: nickeblewis/headforcode # Path to your Github repository
   branch: master # Branch to update (master by default)
 
-publish_mode: editorial_workflow
-
-media_folder: "public/static/images" # Folder where user uploaded files should go
-
+public_folder: "public"
+media_folder: "public/static/images/" # Folder where user uploaded files should go
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Blog" # Used in the UI, ie.: "New Post"
-    folder: "_public/content/post/post" # The path to the folder where the documents are stored
+  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Post" # Used in the UI, ie.: "New Post"
+    folder: "content/post" # The path to the folder where the documents are stored
+    sort: "date:desc" # Default is title:asc
     create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}"
     fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+    meta: # Meta data fields. Just like fields, but without any preview element
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
+    card: {type: "alltype", text: "title"}
