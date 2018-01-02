@@ -1,10 +1,9 @@
 backend:
   name: github
-  repo: nathan2014/osd.git
+  repo: https://github.com/nathan2014/osd.git
   # Path to your Github repository
   branch: master # Branch to update (master by default)
 
-display_url: organicseodesign.co
 publish_mode: editorial_workflow
 
 media_folder: "static/images" # Folder where user uploaded files should go
