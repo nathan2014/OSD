@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway
-  repo: https://github.com/nathan2014/osd.git
+  name: github
+  repo: nathan2014/osd.git
  # Path to your Github repository
   branch: master # Branch to update (master by default)
 
