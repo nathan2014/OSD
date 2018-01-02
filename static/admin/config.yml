@@ -7,7 +7,7 @@ backend:
 display_url: organicseodesign.co
 publish_mode: editorial_workflow
 
-media_folder: "static/images/blog" # Folder where user uploaded files should go
+media_folder: "static/img/blog" # Folder where user uploaded files should go
 # public_folder: "public"
 
 collections: # A list of collections the CMS should be able to edit
