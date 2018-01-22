@@ -11,7 +11,7 @@ canonifyurls = true
 [menu]
     [[menu.main]]
     identifier = "Posts"
-    name       = "Posts"
+    name       = "Organic SEO Company"
     url        = "/Organic-SEO-Company"
     weight     = 0
 
