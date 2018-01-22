@@ -10,9 +10,9 @@ paginate = 10
 canonifyurls = true
 [menu]
     [[menu.main]]
-    identifier = "Posts"
+    identifier = "Organic SEO Company"
     name       = "Organic SEO Company"
-    url        = "/Organic-SEO-Company"
+    url        = "/Organic-SEO-Posts"
     weight     = 0
 
     [[menu.main]]
