@@ -1,12 +1,12 @@
 +++
 date = "2014-07-11T10:54:24+02:00"
 draft = false
-title = "Post title"
-slug = "post-title"
-tags = ["tag1","tag2"]
+title = "Contact"
+slug = "contact-organic-seo-design"
+tags = ["organic seo company","organic seo design"]
 image = ""
 comments = true	# set false to hide Disqus
 share = true	# set false to hide share buttons
-menu= ""		# set "main" to add this content to the main menu
+menu= "main"		# set "main" to add this content to the main menu
 author = ""
 +++
