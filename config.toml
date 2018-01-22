@@ -8,7 +8,24 @@ googleAnalytics = ""
 # Define how many posts should appear on a site
 paginate = 10
 canonifyurls = true
-sectionPagesMenu = "main"
+[menu]
+    [[menu.main]]
+    identifier = "Posts"
+    name       = "Posts"
+    url        = "/Posts"
+    weight     = 0
+
+    [[menu.main]]
+    identifier = "About"
+    name       = "About"
+    url        = "/About"
+    weight     = 1
+
+    [[menu.main]]
+    identifier = "Contact"
+    name       = "Contact"
+    url        = "/Contact"
+    weight     = 4
 [params]
   description = "A bridge to organic SEO by design."
   cover = "images/cover.jpg"
