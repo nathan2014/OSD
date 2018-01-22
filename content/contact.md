@@ -5,8 +5,7 @@ slug = "contact-organic-seo-design"
 tags = ["organic seo company","organic seo design"] 
 image = "" 
 comments = true	
-# set false to hide Disqus 
 share = true
-# set false to hide share buttons 
 menu= "main"	
-author = "" +++
+author = "" 
++++
