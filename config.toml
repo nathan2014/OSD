@@ -28,7 +28,7 @@ canonifyurls = true
     weight     = 4
 [params]
   description = "A bridge to organic SEO by design."
-  cover = "images/cover.jpg"Commit changes
+  cover = "images/cover.jpg"
   author = "Nathan M. Allen"
   authorlocation = "Orange County,CA,USA"
   authorwebsite = ""
