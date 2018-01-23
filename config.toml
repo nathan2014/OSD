@@ -28,9 +28,9 @@ canonifyurls = true
     weight     = 4
     
      [[menu.main]]
-    identifier = "blog"
+    identifier = "/posts/"
     name       = "blog"
-    url        = "/posts/post"
+    url        = "/posts/"
     weight     = 5
 [params]
   description = "A bridge to organic SEO by design."
