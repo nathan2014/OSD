@@ -24,7 +24,7 @@
     {{ end }}
 
     <title>
-      {{ if ne .URL "/" }} {{ .Title }} &middot; {{ end }} {{ .Title }}
+      {{ if ne .URL "/" }} {{ .Title }} &middot; {{ end }} {{ .Site.Title }}
     </title>
 
    <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Description }}{{ end }}"/>
