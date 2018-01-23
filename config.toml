@@ -22,9 +22,9 @@ canonifyurls = true
     weight     = 2
 
     [[menu.main]]
-    identifier = "contact.html"
+    identifier = "contact"
     name       = "contact"
-    url        = "/contact"
+    url        = "/contact.html"
     weight     = 4
 [params]
   description = "A bridge to organic SEO by design."
