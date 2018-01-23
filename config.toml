@@ -12,19 +12,19 @@ canonifyurls = true
     [[menu.main]]
     identifier = "Organic SEO Company"
     name       = "organic seo company"
-    url        = "/organic-seo-company.html"
+    url        = "/organic-seo-company"
     weight     = 3
 
     [[menu.main]]
     identifier = "About"
     name       = "about"
-    url        = "/About.html"
+    url        = "/about"
     weight     = 2
 
     [[menu.main]]
     identifier = "Contact"
     name       = "contact"
-    url        = "/Contact.html"
+    url        = "/contact"
     weight     = 4
 [params]
   description = "A bridge to organic SEO by design."
