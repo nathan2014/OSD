@@ -30,7 +30,7 @@ canonifyurls = true
      [[menu.main]]
     identifier = "blog"
     name       = "blog"
-    url        = "/posts/"
+    url        = "/posts/post"
     weight     = 5
 [params]
   description = "A bridge to organic SEO by design."
