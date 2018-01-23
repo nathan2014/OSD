@@ -26,6 +26,12 @@ canonifyurls = true
     name       = "contact"
     url        = "/contact.html"
     weight     = 4
+    
+     [[menu.main]]
+    identifier = "blog"
+    name       = "blog"
+    url        = "/posts/"
+    weight     = 5
 [params]
   description = "A bridge to organic SEO by design."
   cover = "images/cover.jpg"
