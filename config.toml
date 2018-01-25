@@ -17,15 +17,15 @@ canonifyurls = true
     weight     = 2
 
     [[menu.main]]
-    identifier = "contact"
+    identifier = "/contact/_index.md"
     name       = "contact"
     url        = "/contact.html"
     weight     = 4
     
      [[menu.main]]
-    identifier = "/blog/"
+    identifier = "/organic-seo-company/_index.md"
     name       = "blog"
-    url        = "/post/"
+    url        = "/organic-seo-company/"
     weight     = 5
 [params]
   description = "A bridge to organic SEO by design."
