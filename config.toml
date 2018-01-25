@@ -1,4 +1,4 @@
-baseurl = "https://www.organicseodesign.co"
+baseurl = "https://www.organicseodesign.co/"
 languageCode = "en-us"
 title = "Organic SEO Design"
 theme = "hugo-theme-casper"
