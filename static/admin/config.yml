@@ -9,7 +9,7 @@ media_folder: "public/static/images/" # Folder where user uploaded files should 
 collections: # A list of collections the CMS should be able to edit
   - name: "organic-seo-company" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Post" # Used in the UI, ie.: "New Post"
-    folder: "content/post" # The path to the folder where the documents are stored
+    folder: "content/organic-seo-company/" # The path to the folder where the documents are stored
     sort: "date:desc" # Default is title:asc
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}"
