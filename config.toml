@@ -16,9 +16,9 @@ canonifyurls = true
     weight     = 3
 
     [[menu.main]]
-    identifier = "about"
+    identifier = "/pages/about.html"
     name       = "about"
-    url        = "/pages/about.html"
+    url        = "/about.html"
     weight     = 2
 
     [[menu.main]]
