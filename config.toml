@@ -10,11 +10,6 @@ paginate = 10
 canonifyurls = true
 [menu]
     [[menu.main]]
-    identifier = "organic-seo-company"
-    name       = "organic seo company"
-    url        = "/organic-seo-company.html"
-    weight     = 3
-
     [[menu.main]]
     identifier = "about.html"
     name       = "about"
