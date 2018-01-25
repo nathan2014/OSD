@@ -12,7 +12,7 @@ canonifyurls = true
     [[menu.main]]
     identifier = "organic-seo-company"
     name       = "organic seo company"
-    url        = "/organic-seo-company.html"
+    url        = "/organic-seo-company"
     weight     = 3
 
     [[menu.main]]
