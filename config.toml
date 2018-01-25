@@ -47,3 +47,8 @@ canonifyurls = true
   hideHUGOSupport = true
   [params.social]
     twitter = "your_twitter"
+    
+    [outputs]
+  home = ["HTML", "AMP"]
+  page = ["HTML", "AMP"]
+  blog = ["HTML", "AMP"]
