@@ -50,5 +50,7 @@ canonifyurls = true
     
     [outputs]
   home = ["HTML", "AMP"]
-  page = ["HTML", "AMP"]
-  blog = ["HTML", "AMP"]
+  about = ["HTML", "AMP"]
+  contact = ["HTML", "AMP"]
+  RSS = ["HTML", "AMP"]
+  ORGANIC-SEO-Company = ["HTML", "AMP"]
