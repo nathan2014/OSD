@@ -19,7 +19,7 @@ canonifyurls = true
     [[menu.main]]
     identifier = "/contact/"
     name       = "Contact"
-    url        = "/contact.html"
+    url        = "/contact/"
     weight     = 4
     
      [[menu.main]]
