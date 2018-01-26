@@ -8,7 +8,7 @@
 
                 {{ .Content }}
 
-                {{ if isset .Site.Params "email" }}
+               
 
                 <div class="heading">
                   <h3>{{ i18n "contactForm" }}</h3>
@@ -53,10 +53,9 @@
 
         <div class="col-md-4">
 
-            {{ if isset .Site.Params "address" }}
+         
             <section>
 
-              <h3 class="text-uppercase"> {{ i18n "contactAddrTitle" }}</h3>
 
                 {{ .Site.Params.address | safeHTML }}
 
