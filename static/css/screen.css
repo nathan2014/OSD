@@ -1487,7 +1487,8 @@ label {
 .copyright {
     display: block;
     width: 45%;
-   font-size:1.4em;
+   font-size:1.7em;
+   margin: 0 auto;
     
 }
 
