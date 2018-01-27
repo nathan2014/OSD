@@ -1487,6 +1487,7 @@ label {
 
 
 .copyright {
+   color:#fff;
    padding-top: 10rem;
     display: block;
     width: 45%;
@@ -1495,6 +1496,10 @@ label {
     
 }
 
+.copyright a:hover {
+   color:#ddd;
+    
+}
 
 /* ==========================================================================
    10. Media Queries - Smaller than 900px
