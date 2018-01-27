@@ -1470,6 +1470,7 @@ label {
     font-size: 1rem;
     line-height: 1.75em;
     color: #BBC7CC;
+   background: #ddd;
 }
 
 .site-footer a {
