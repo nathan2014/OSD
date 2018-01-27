@@ -1470,18 +1470,18 @@ label {
     font-size: 1rem;
     line-height: 1.75em;
     color: #fff;
-   background: #black;
+   background: #2e2e2e;
    height:16%;
 }
 
 .site-footer a {
-    color: #BBC7CC;
+ 
     text-decoration: none;
     font-weight: bold;
 }
 
 .site-footer a:hover {
-    color: #50585D;
+ 
 }
 
 
