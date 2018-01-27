@@ -1062,7 +1062,7 @@ body:not(.post-template) .post-title {
 /* ==========================================================================
    5. Single Post - When you click on an individual post
    ========================================================================== */
-.copyright { margin: 0 auto; }
+
 .post-template .post-header {
    margin-bottom: 3.4rem;
 }
@@ -1487,6 +1487,7 @@ label {
 .copyright {
     display: block;
     width: 45%;
+   font-size:1.4em;
     
 }
 
