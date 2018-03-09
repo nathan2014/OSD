@@ -11,19 +11,18 @@ canonifyurls = true
 [menu]
    
     [[menu.main]]
-    identifier = "/about/_index.md"
+    
     name       = "About"
     url        = "/about/"
     weight     = 2
 
     [[menu.main]]
-    identifier = "/contact/"
+   
     name       = "Contact"
     url        = "/contact/"
     weight     = 4
     
      [[menu.main]]
-    identifier = "/organic-seo-company/_index.md"
     name       = "Blog"
     url        = "/organic-seo-company/"
     weight     = 5
