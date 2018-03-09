@@ -11,9 +11,9 @@ canonifyurls = true
 [menu]
    
     [[menu.main]]
-    identifier = "/about/"
+    identifier = "/about/_index.md"
     name       = "About"
-    url        = "/about/_index.md"
+    url        = "/about"
     weight     = 2
 
     [[menu.main]]
