@@ -13,7 +13,7 @@ canonifyurls = true
     [[menu.main]]
     
     name       = "About"
-    
+    url =   "/about.html"
     weight     = 2
 
     [[menu.main]]
