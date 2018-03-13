@@ -10,11 +10,8 @@ paginate = 10
 canonifyurls = true
 [menu]
    
-    [[menu.main]]
+ 
    
-    name       = "About"
-    url =   "/about"
-    weight     = 2
 
     [[menu.main]]
    
