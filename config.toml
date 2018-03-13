@@ -11,7 +11,7 @@ canonifyurls = true
 [menu]
    
     [[menu.main]]
-    indentifier = "/about.md"
+    indentifier = "/about.html"
     name       = "About"
     url =   "/about.html"
     weight     = 2
