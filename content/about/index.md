@@ -2,8 +2,7 @@
 title = "About company"
 description = "About organic seo design company."
 tags = [ "organic seo" "organic seo company" ]
-type="page"
-slug = "spf13"
+type = "page"
 +++
 
 <h1> About my organic seo company </h1>
