@@ -1,4 +1,10 @@
-
++++
+title = "About company"
+description = "About organic seo design company."
+tags = [ "organic seo" "organic seo company" ]
+type="page"
+slug = "spf13"
++++
 
 <h1> About my organic seo company </h1>
 <p>  When I began doing search engine optimization, I was excited and alos baffled, I had come off of a heap of time trying to decipher what exactly the world wide web was, innately going through technical documents, and browsing explanations from web technology leaders on the topic.  <p>I would come across psychology field explanations, speaking to the communication medium's strengths, search as a new expanse of information discovery, all the way to information security's woes on what a clutter it had become in the face of a dot com boom and bust, it seemed all was lost, and my only hope or salvation if you will, was the complex construction of animated user interfaces incorporating high value data as long term assets to corporations as well as people, either in the interest of education OR entertainment. </p>
