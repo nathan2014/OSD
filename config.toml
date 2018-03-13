@@ -13,7 +13,7 @@ canonifyurls = true
     [[menu.main]]
     indentifier = "/about.html"
     name       = "About"
-    url =   "/about.html"
+    url =   "/about"
     weight     = 2
 
     [[menu.main]]
